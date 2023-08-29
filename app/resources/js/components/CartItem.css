@@ -1,0 +1,24 @@
+.cart-item {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    border-bottom: 1px solid #ddd;
+  }
+  
+ 
+  .cart-item-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+  }
+  
+  .cart-item-details p {
+    margin: 0;
+    font-size: 1rem;
+  }
+  
+  .cart-item-details button {
+    margin-left: auto;
+  }
+  
